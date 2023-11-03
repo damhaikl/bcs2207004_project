@@ -1,0 +1,1 @@
+web: gunicorn ADAMPracticalTest.wsgi --log-file -
